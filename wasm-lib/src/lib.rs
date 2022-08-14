@@ -5,6 +5,8 @@ pub fn add(a: i32, b: i32) -> i32 {
     a + b
 }
 
+//新增一个fibonacci的计算
+//by:菩提树下的杨过 http://yjmyzz.cnblogs.com
 #[wasm_bindgen]
 pub fn fibonacci_wasm(n: i32) -> i32 {
     if n <= 1 {

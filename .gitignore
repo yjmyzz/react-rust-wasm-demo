@@ -22,5 +22,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-wasm-lib/pkg
-wasm-lib/target
+/wasm-lib/pkg
+/wasm-lib/target
+
