@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Create React App and Rust+WebAssembly(wasm)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -44,3 +44,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+You can learn more the code detail in the [how-to-create-a-react-app-with-rust-and-wasm](https://www.cnblogs.com/yjmyzz/p/how-to-create-a-react-app-with-rust-and-wasm.html)
